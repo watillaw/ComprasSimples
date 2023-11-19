@@ -8,8 +8,6 @@ public class CartaoDeCredito {
 
 
 
-
-
     public CartaoDeCredito(double limite) {
         this.limite = limite;
         this.saldo = limite;
